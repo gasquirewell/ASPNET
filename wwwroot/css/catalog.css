@@ -1,0 +1,24 @@
+
+item {
+    border: 1px solid #eee;
+    border-radius: 4px;
+    width: 400px;
+    height: 350px;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.item img {
+    display: block;
+    width: 100%;
+}
+
+.item .price {
+    color: bold black;
+}
+
+h4:hover {
+    color: rgb(13, 101, 151);
+}
